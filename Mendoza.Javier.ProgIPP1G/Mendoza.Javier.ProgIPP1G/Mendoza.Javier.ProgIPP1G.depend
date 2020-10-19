@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603146764 source:c:\users\javier\documents\técnico universitario en programación\laboratorio y programación 1\parcial programacion 1\mendoza.javier.progipp1g\mendoza.javier.progipp1g\main.c
+	<stdio.h>
+	<stdlib.h>
+
